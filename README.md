@@ -1,6 +1,9 @@
 # Formulario de Contacto
 
-## Código original de enviar.php
+## Código original (enviar.php)
+
+**Nombre del archivo:** `enviar.php`
+**Ubicación original:** `/FormContac/htdocs/enviar.php`
 
 ```php
 <?php
